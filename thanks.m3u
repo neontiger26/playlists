@@ -520,9 +520,9 @@ https://int.klcis.cc/api/m3u/OutdoorChannel?quality=hd
 https://int.klcis.cc/api/m3u/OxygenEast?quality=sd
 #EXTINF:-1 tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed HD" group-title="Live",Oxygen Eastern Feed HD
 https://int.klcis.cc/api/m3u/OxygenEast?quality=hd
-#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York, NY SD" group-title="Live",PBS (WNET) New York, NY SD
+#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York SD" group-title="Live",PBS (WNET) New York, NY SD
 https://int.klcis.cc/api/m3u/WNET?quality=sd
-#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York, NY HD" group-title="Live",PBS (WNET) New York, NY HD
+#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York HD" group-title="Live",PBS (WNET) New York, NY HD
 https://int.klcis.cc/api/m3u/WNET?quality=hd
 #EXTINF:-1 tvg-id="reelzchannel" tvg-name="ReelzChannel SD" group-title="Live",ReelzChannel SD
 https://int.klcis.cc/api/m3u/Reelz?quality=sd
