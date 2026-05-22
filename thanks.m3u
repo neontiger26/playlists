@@ -1,0 +1,710 @@
+#EXTM3U x-tvg-url="https://int.klcis.cc/api/epg.xml"
+
+#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed SD" group-title="Live",A&E US Eastern Feed SD
+https://int.klcis.cc/api/m3u/AEEast?quality=sd
+#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed HD" group-title="Live",A&E US Eastern Feed HD
+https://int.klcis.cc/api/m3u/AEEast?quality=hd
+#EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-name="ABC (KABC) Los Angeles SD" group-title="Live",ABC (KABC) Los Angeles SD
+https://int.klcis.cc/api/m3u/abc-kabc-los-angeles-ca?quality=sd
+#EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-name="ABC (KABC) Los Angeles HD" group-title="Live",ABC (KABC) Los Angeles HD
+https://int.klcis.cc/api/m3u/abc-kabc-los-angeles-ca?quality=hd
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY SD" group-title="Live",ABC (WABC) New York, NY SD
+https://int.klcis.cc/api/m3u/WABCDT1?quality=sd
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY HD" group-title="Live",ABC (WABC) New York, NY HD
+https://int.klcis.cc/api/m3u/WABCDT1?quality=hd
+#EXTINF:-1 tvg-id="acc-network" tvg-name="ACC Network SD" group-title="Live",ACC Network SD
+https://int.klcis.cc/api/m3u/ACCNetwork?quality=sd
+#EXTINF:-1 tvg-id="acc-network" tvg-name="ACC Network HD" group-title="Live",ACC Network HD
+https://int.klcis.cc/api/m3u/ACCNetwork?quality=hd
+#EXTINF:-1 tvg-id="altitude-sports-denver" tvg-name="Altitude Sports Denver SD" group-title="Live",Altitude Sports Denver SD
+https://int.klcis.cc/api/m3u/altitude-sports-denver?quality=sd
+#EXTINF:-1 tvg-id="altitude-sports-denver" tvg-name="Altitude Sports Denver HD" group-title="Live",Altitude Sports Denver HD
+https://int.klcis.cc/api/m3u/altitude-sports-denver?quality=hd
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed SD" group-title="Live",AMC Eastern Feed SD
+https://int.klcis.cc/api/m3u/AMCEast?quality=sd
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed HD" group-title="Live",AMC Eastern Feed HD
+https://int.klcis.cc/api/m3u/AMCEast?quality=hd
+#EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel SD" group-title="Live",American Heroes Channel SD
+https://int.klcis.cc/api/m3u/AmericanHeroesChannel?quality=sd
+#EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel HD" group-title="Live",American Heroes Channel HD
+https://int.klcis.cc/api/m3u/AmericanHeroesChannel?quality=hd
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East SD" group-title="Live",Animal Planet US East SD
+https://int.klcis.cc/api/m3u/AnimalPlanetEast?quality=sd
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East HD" group-title="Live",Animal Planet US East HD
+https://int.klcis.cc/api/m3u/AnimalPlanetEast?quality=hd
+#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East SD" group-title="Live",BBC America East SD
+https://int.klcis.cc/api/m3u/BBCAmericaEast?quality=sd
+#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East HD" group-title="Live",BBC America East HD
+https://int.klcis.cc/api/m3u/BBCAmericaEast?quality=hd
+#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD SD" group-title="Live",BBC News North America HD SD
+https://int.klcis.cc/api/m3u/BBCWorldNewsNorthAmerica?quality=sd
+#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD HD" group-title="Live",BBC News North America HD HD
+https://int.klcis.cc/api/m3u/BBCWorldNewsNorthAmerica?quality=hd
+#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed SD" group-title="Live",BET Eastern Feed SD
+https://int.klcis.cc/api/m3u/BETEast?quality=sd
+#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed HD" group-title="Live",BET Eastern Feed HD
+https://int.klcis.cc/api/m3u/BETEast?quality=hd
+#EXTINF:-1 tvg-id="bet-her" tvg-name="BET Her SD" group-title="Live",BET Her SD
+https://int.klcis.cc/api/m3u/BETHerEast?quality=sd
+#EXTINF:-1 tvg-id="bet-her" tvg-name="BET Her HD" group-title="Live",BET Her HD
+https://int.klcis.cc/api/m3u/BETHerEast?quality=hd
+#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network SD" group-title="Live",Big Ten Network SD
+https://int.klcis.cc/api/m3u/BTN?quality=sd
+#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network HD" group-title="Live",Big Ten Network HD
+https://int.klcis.cc/api/m3u/BTN?quality=hd
+#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA SD" group-title="Live",Bloomberg TV USA SD
+https://int.klcis.cc/api/m3u/BloombergTV?quality=sd
+#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA HD" group-title="Live",Bloomberg TV USA HD
+https://int.klcis.cc/api/m3u/BloombergTV?quality=hd
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang SD" group-title="Live",Boomerang SD
+https://int.klcis.cc/api/m3u/Boomerang?quality=sd
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang HD" group-title="Live",Boomerang HD
+https://int.klcis.cc/api/m3u/Boomerang?quality=hd
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed SD" group-title="Live",Bravo USA Eastern Feed SD
+https://int.klcis.cc/api/m3u/BravoEast?quality=sd
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed HD" group-title="Live",Bravo USA Eastern Feed HD
+https://int.klcis.cc/api/m3u/BravoEast?quality=hd
+#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN SD" group-title="Live",C-SPAN SD
+https://int.klcis.cc/api/m3u/CSPAN?quality=sd
+#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN HD" group-title="Live",C-SPAN HD
+https://int.klcis.cc/api/m3u/CSPAN?quality=hd
+#EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2 SD" group-title="Live",C-SPAN 2 SD
+https://int.klcis.cc/api/m3u/CSPAN2?quality=sd
+#EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2 HD" group-title="Live",C-SPAN 2 HD
+https://int.klcis.cc/api/m3u/CSPAN2?quality=hd
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed SD" group-title="Live",Cartoon Network USA Eastern Feed SD
+https://int.klcis.cc/api/m3u/CartoonNetworkEast?quality=sd
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed HD" group-title="Live",Cartoon Network USA Eastern Feed HD
+https://int.klcis.cc/api/m3u/CartoonNetworkEast?quality=hd
+#EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca" tvg-name="CBS (KCBS) Los Angeles SD" group-title="Live",CBS (KCBS) Los Angeles SD
+https://int.klcis.cc/api/m3u/cbs-kcbs-los-angeles-ca?quality=sd
+#EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca" tvg-name="CBS (KCBS) Los Angeles HD" group-title="Live",CBS (KCBS) Los Angeles HD
+https://int.klcis.cc/api/m3u/cbs-kcbs-los-angeles-ca?quality=hd
+#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS (WCBS) New York, NY SD" group-title="Live",CBS (WCBS) New York, NY SD
+https://int.klcis.cc/api/m3u/WCBSDT1?quality=sd
+#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS (WCBS) New York, NY HD" group-title="Live",CBS (WCBS) New York, NY HD
+https://int.klcis.cc/api/m3u/WCBSDT1?quality=hd
+#EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA SD" group-title="Live",CBS Sports Network USA SD
+https://int.klcis.cc/api/m3u/CBSSportsNetworkUSA?quality=sd
+#EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA HD" group-title="Live",CBS Sports Network USA HD
+https://int.klcis.cc/api/m3u/CBSSportsNetworkUSA?quality=hd
+#EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network SD" group-title="Live",Chicago Sports Network SD
+https://int.klcis.cc/api/m3u/chicago-sports-network?quality=sd
+#EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network HD" group-title="Live",Chicago Sports Network HD
+https://int.klcis.cc/api/m3u/chicago-sports-network?quality=hd
+#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed SD" group-title="Live",Cinemax Eastern Feed SD
+https://int.klcis.cc/api/m3u/CinemaxEast?quality=sd
+#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed HD" group-title="Live",Cinemax Eastern Feed HD
+https://int.klcis.cc/api/m3u/CinemaxEast?quality=hd
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed SD" group-title="Live",CMT US Eastern Feed SD
+https://int.klcis.cc/api/m3u/CMTEast?quality=sd
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed HD" group-title="Live",CMT US Eastern Feed HD
+https://int.klcis.cc/api/m3u/CMTEast?quality=hd
+#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA SD" group-title="Live",CNBC USA SD
+https://int.klcis.cc/api/m3u/CNBC?quality=sd
+#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA HD" group-title="Live",CNBC USA HD
+https://int.klcis.cc/api/m3u/CNBC?quality=hd
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US SD" group-title="Live",CNN US SD
+https://int.klcis.cc/api/m3u/CNN?quality=sd
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US HD" group-title="Live",CNN US HD
+https://int.klcis.cc/api/m3u/CNN?quality=hd
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed SD" group-title="Live",Comedy Central (US) Eastern Feed SD
+https://int.klcis.cc/api/m3u/ComedyCentralEast?quality=sd
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed HD" group-title="Live",Comedy Central (US) Eastern Feed HD
+https://int.klcis.cc/api/m3u/ComedyCentralEast?quality=hd
+#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD SD" group-title="Live",Crime & Investigation Network USA HD SD
+https://int.klcis.cc/api/m3u/CrimePlusInvestigation?quality=sd
+#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD HD" group-title="Live",Crime & Investigation Network USA HD HD
+https://int.klcis.cc/api/m3u/CrimePlusInvestigation?quality=hd
+#EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca" tvg-name="CW (KFMB-TV2) San Diego SD" group-title="Live",CW (KFMB-TV2) San Diego SD
+https://int.klcis.cc/api/m3u/cw-kfmbtv2-san-diego-ca?quality=sd
+#EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca" tvg-name="CW (KFMB-TV2) San Diego HD" group-title="Live",CW (KFMB-TV2) San Diego HD
+https://int.klcis.cc/api/m3u/cw-kfmbtv2-san-diego-ca?quality=hd
+#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW (WDCW) District of Columbia SD" group-title="Live",CW (WDCW) District of Columbia SD
+https://int.klcis.cc/api/m3u/cw-wdcw-district-of-columbia?quality=sd
+#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW (WDCW) District of Columbia HD" group-title="Live",CW (WDCW) District of Columbia HD
+https://int.klcis.cc/api/m3u/cw-wdcw-district-of-columbia?quality=hd
+#EXTINF:-1 tvg-id="destination-america" tvg-name="Destination America SD" group-title="Live",Destination America SD
+https://int.klcis.cc/api/m3u/DestinationAmerica?quality=sd
+#EXTINF:-1 tvg-id="destination-america" tvg-name="Destination America HD" group-title="Live",Destination America HD
+https://int.klcis.cc/api/m3u/DestinationAmerica?quality=hd
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed SD" group-title="Live",Discovery Channel (US) Eastern Feed SD
+https://int.klcis.cc/api/m3u/DiscoveryChannelEast?quality=sd
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed HD" group-title="Live",Discovery Channel (US) Eastern Feed HD
+https://int.klcis.cc/api/m3u/DiscoveryChannelEast?quality=hd
+#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel SD" group-title="Live",Discovery Family Channel SD
+https://int.klcis.cc/api/m3u/DiscoveryFamily?quality=sd
+#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel HD" group-title="Live",Discovery Family Channel HD
+https://int.klcis.cc/api/m3u/DiscoveryFamily?quality=hd
+#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel SD" group-title="Live",Discovery Life Channel SD
+https://int.klcis.cc/api/m3u/DiscoveryLife?quality=sd
+#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel HD" group-title="Live",Discovery Life Channel HD
+https://int.klcis.cc/api/m3u/DiscoveryLife?quality=hd
+#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed SD" group-title="Live",Disney Eastern Feed SD
+https://int.klcis.cc/api/m3u/DisneyChannelEast?quality=sd
+#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed HD" group-title="Live",Disney Eastern Feed HD
+https://int.klcis.cc/api/m3u/DisneyChannelEast?quality=hd
+#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East SD" group-title="Live",Disney Junior USA East SD
+https://int.klcis.cc/api/m3u/DisneyJuniorEast?quality=sd
+#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East HD" group-title="Live",Disney Junior USA East HD
+https://int.klcis.cc/api/m3u/DisneyJuniorEast?quality=hd
+#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed SD" group-title="Live",Disney XD USA Eastern Feed SD
+https://int.klcis.cc/api/m3u/DisneyXDEast?quality=sd
+#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed HD" group-title="Live",Disney XD USA Eastern Feed HD
+https://int.klcis.cc/api/m3u/DisneyXDEast?quality=hd
+#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed SD" group-title="Live",E! Entertainment USA Eastern Feed SD
+https://int.klcis.cc/api/m3u/EEast?quality=sd
+#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed HD" group-title="Live",E! Entertainment USA Eastern Feed HD
+https://int.klcis.cc/api/m3u/EEast?quality=hd
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN SD" group-title="Live",ESPN SD
+https://int.klcis.cc/api/m3u/ESPN?quality=sd
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN HD" group-title="Live",ESPN HD
+https://int.klcis.cc/api/m3u/ESPN?quality=hd
+#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes SD" group-title="Live",ESPN Deportes SD
+https://int.klcis.cc/api/m3u/espn-deportes?quality=sd
+#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes HD" group-title="Live",ESPN Deportes HD
+https://int.klcis.cc/api/m3u/espn-deportes?quality=hd
+#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News SD" group-title="Live",ESPN News SD
+https://int.klcis.cc/api/m3u/ESPNews?quality=sd
+#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News HD" group-title="Live",ESPN News HD
+https://int.klcis.cc/api/m3u/ESPNews?quality=hd
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U SD" group-title="Live",ESPN U SD
+https://int.klcis.cc/api/m3u/ESPNU?quality=sd
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U HD" group-title="Live",ESPN U HD
+https://int.klcis.cc/api/m3u/ESPNU?quality=hd
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 SD" group-title="Live",ESPN2 SD
+https://int.klcis.cc/api/m3u/ESPN2?quality=sd
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 HD" group-title="Live",ESPN2 HD
+https://int.klcis.cc/api/m3u/ESPN2?quality=hd
+#EXTINF:-1 tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana SD" group-title="Live",Fanduel Sports Indiana SD
+https://int.klcis.cc/api/m3u/fanduel-sports-indiana?quality=sd
+#EXTINF:-1 tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana HD" group-title="Live",Fanduel Sports Indiana HD
+https://int.klcis.cc/api/m3u/fanduel-sports-indiana?quality=hd
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-detroit-hd?quality=sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit HD" group-title="Live",Fanduel Sports Network Detroit HD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-detroit-hd?quality=hd
+#EXTINF:-1 tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida SD" group-title="Live",Fanduel Sports Network Florida SD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-florida?quality=sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida HD" group-title="Live",Fanduel Sports Network Florida HD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-florida?quality=hd
+#EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes" tvg-name="Fanduel Sports Network Great Lakes SD" group-title="Live",Fanduel Sports Network Great Lakes SD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-great-lakes?quality=sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes" tvg-name="Fanduel Sports Network Great Lakes HD" group-title="Live",Fanduel Sports Network Great Lakes HD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-great-lakes?quality=hd
+#EXTINF:-1 tvg-id="fanduel-sports-network-north" tvg-name="Fanduel Sports Network North SD" group-title="Live",Fanduel Sports Network North SD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-north?quality=sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-north" tvg-name="Fanduel Sports Network North HD" group-title="Live",Fanduel Sports Network North HD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-north?quality=hd
+#EXTINF:-1 tvg-id="fanduel-sports-network-ohio-cleveland" tvg-name="Fanduel Sports Network Ohio Cleveland SD" group-title="Live",Fanduel Sports Network Ohio Cleveland SD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-ohio-cleveland?quality=sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-ohio-cleveland" tvg-name="Fanduel Sports Network Ohio Cleveland HD" group-title="Live",Fanduel Sports Network Ohio Cleveland HD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-ohio-cleveland?quality=hd
+#EXTINF:-1 tvg-id="fanduel-sports-network-oklahoma" tvg-name="Fanduel Sports Network Oklahoma SD" group-title="Live",Fanduel Sports Network Oklahoma SD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-oklahoma?quality=sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-oklahoma" tvg-name="Fanduel Sports Network Oklahoma HD" group-title="Live",Fanduel Sports Network Oklahoma HD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-oklahoma?quality=hd
+#EXTINF:-1 tvg-id="fanduel-sports-network-san-diego" tvg-name="Fanduel Sports Network San Diego SD" group-title="Live",Fanduel Sports Network San Diego SD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-san-diego?quality=sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-san-diego" tvg-name="Fanduel Sports Network San Diego HD" group-title="Live",Fanduel Sports Network San Diego HD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-san-diego?quality=hd
+#EXTINF:-1 tvg-id="fanduel-sports-network-socal" tvg-name="Fanduel Sports Network Socal SD" group-title="Live",Fanduel Sports Network Socal SD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-socal?quality=sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-socal" tvg-name="Fanduel Sports Network Socal HD" group-title="Live",Fanduel Sports Network Socal HD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-socal?quality=hd
+#EXTINF:-1 tvg-id="fanduel-sports-network-south-carolinas" tvg-name="Fanduel Sports Network South Carolinas SD" group-title="Live",Fanduel Sports Network South Carolinas SD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-south-carolinas?quality=sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-south-carolinas" tvg-name="Fanduel Sports Network South Carolinas HD" group-title="Live",Fanduel Sports Network South Carolinas HD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-south-carolinas?quality=hd
+#EXTINF:-1 tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-name="Fanduel Sports Network South Tennessee SD" group-title="Live",Fanduel Sports Network South Tennessee SD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-south-tennessee-usa?quality=sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-name="Fanduel Sports Network South Tennessee HD" group-title="Live",Fanduel Sports Network South Tennessee HD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-south-tennessee-usa?quality=hd
+#EXTINF:-1 tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West SD" group-title="Live",Fanduel Sports Network West SD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-west?quality=sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West HD" group-title="Live",Fanduel Sports Network West HD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-west?quality=hd
+#EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin" tvg-name="Fanduel Sports Network Wisconsin SD" group-title="Live",Fanduel Sports Network Wisconsin SD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-wisconsin?quality=sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin" tvg-name="Fanduel Sports Network Wisconsin HD" group-title="Live",Fanduel Sports Network Wisconsin HD
+https://int.klcis.cc/api/m3u/fanduel-sports-network-wisconsin?quality=hd
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-georgia" tvg-name="Fanduel Sports Southeast Georgia SD" group-title="Live",Fanduel Sports Southeast Georgia SD
+https://int.klcis.cc/api/m3u/fanduel-sports-southeast-georgia?quality=sd
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-georgia" tvg-name="Fanduel Sports Southeast Georgia HD" group-title="Live",Fanduel Sports Southeast Georgia HD
+https://int.klcis.cc/api/m3u/fanduel-sports-southeast-georgia?quality=hd
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-north-carolina" tvg-name="Fanduel Sports Southeast North Carolina SD" group-title="Live",Fanduel Sports Southeast North Carolina SD
+https://int.klcis.cc/api/m3u/fanduel-sports-southeast-north-carolina?quality=sd
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-north-carolina" tvg-name="Fanduel Sports Southeast North Carolina HD" group-title="Live",Fanduel Sports Southeast North Carolina HD
+https://int.klcis.cc/api/m3u/fanduel-sports-southeast-north-carolina?quality=hd
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-south-carolina" tvg-name="Fanduel Sports Southeast South Carolina SD" group-title="Live",Fanduel Sports Southeast South Carolina SD
+https://int.klcis.cc/api/m3u/fanduel-sports-southeast-south-carolina?quality=sd
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-south-carolina" tvg-name="Fanduel Sports Southeast South Carolina HD" group-title="Live",Fanduel Sports Southeast South Carolina HD
+https://int.klcis.cc/api/m3u/fanduel-sports-southeast-south-carolina?quality=hd
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-tennessee-nashville" tvg-name="Fanduel Sports Southeast Tennessee Nashville SD" group-title="Live",Fanduel Sports Southeast Tennessee Nashville SD
+https://int.klcis.cc/api/m3u/fanduel-sports-southeast-tennessee-nashville?quality=sd
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-tennessee-nashville" tvg-name="Fanduel Sports Southeast Tennessee Nashville HD" group-title="Live",Fanduel Sports Southeast Tennessee Nashville HD
+https://int.klcis.cc/api/m3u/fanduel-sports-southeast-tennessee-nashville?quality=hd
+#EXTINF:-1 tvg-id="bally-sports-sun" tvg-name="Fanduel Sports Sun SD" group-title="Live",Fanduel Sports Sun SD
+https://int.klcis.cc/api/m3u/fanduel-sports-sun?quality=sd
+#EXTINF:-1 tvg-id="bally-sports-sun" tvg-name="Fanduel Sports Sun HD" group-title="Live",Fanduel Sports Sun HD
+https://int.klcis.cc/api/m3u/fanduel-sports-sun?quality=hd
+#EXTINF:-1 tvg-id="fanduel-sports-tennessee-east" tvg-name="Fanduel Sports Tennessee East SD" group-title="Live",Fanduel Sports Tennessee East SD
+https://int.klcis.cc/api/m3u/fanduel-sports-tennessee-east?quality=sd
+#EXTINF:-1 tvg-id="fanduel-sports-tennessee-east" tvg-name="Fanduel Sports Tennessee East HD" group-title="Live",Fanduel Sports Tennessee East HD
+https://int.klcis.cc/api/m3u/fanduel-sports-tennessee-east?quality=hd
+#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed SD" group-title="Live",Food Network USA Eastern Feed SD
+https://int.klcis.cc/api/m3u/FoodNetworkEast?quality=sd
+#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed HD" group-title="Live",Food Network USA Eastern Feed HD
+https://int.klcis.cc/api/m3u/FoodNetworkEast?quality=hd
+#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" tvg-name="FOX (KTTV) Los Angeles SD" group-title="Live",FOX (KTTV) Los Angeles SD
+https://int.klcis.cc/api/m3u/fox-kttv-los-angeles-ca?quality=sd
+#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" tvg-name="FOX (KTTV) Los Angeles HD" group-title="Live",FOX (KTTV) Los Angeles HD
+https://int.klcis.cc/api/m3u/fox-kttv-los-angeles-ca?quality=hd
+#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY SD" group-title="Live",FOX (WNYW) New York, NY SD
+https://int.klcis.cc/api/m3u/WNYWDT1?quality=sd
+#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY HD" group-title="Live",FOX (WNYW) New York, NY HD
+https://int.klcis.cc/api/m3u/WNYWDT1?quality=hd
+#EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business SD" group-title="Live",Fox Business SD
+https://int.klcis.cc/api/m3u/FoxBusiness?quality=sd
+#EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business HD" group-title="Live",Fox Business HD
+https://int.klcis.cc/api/m3u/FoxBusiness?quality=hd
+#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News SD" group-title="Live",Fox News SD
+https://int.klcis.cc/api/m3u/FoxNewsChannel?quality=sd
+#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News HD" group-title="Live",Fox News HD
+https://int.klcis.cc/api/m3u/FoxNewsChannel?quality=hd
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 SD" group-title="Live",Fox Sports 1 SD
+https://int.klcis.cc/api/m3u/FoxSports1?quality=sd
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD" group-title="Live",Fox Sports 1 HD
+https://int.klcis.cc/api/m3u/FoxSports1?quality=hd
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 SD" group-title="Live",Fox Sports 2 SD
+https://int.klcis.cc/api/m3u/FoxSports2?quality=sd
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD" group-title="Live",Fox Sports 2 HD
+https://int.klcis.cc/api/m3u/FoxSports2?quality=hd
+#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed SD" group-title="Live",Freeform East Feed SD
+https://int.klcis.cc/api/m3u/FreeformEast?quality=sd
+#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed HD" group-title="Live",Freeform East Feed HD
+https://int.klcis.cc/api/m3u/FreeformEast?quality=hd
+#EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FUSE TV Eastern feed SD" group-title="Live",FUSE TV Eastern feed SD
+https://int.klcis.cc/api/m3u/FuseEast?quality=sd
+#EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FUSE TV Eastern feed HD" group-title="Live",FUSE TV Eastern feed HD
+https://int.klcis.cc/api/m3u/FuseEast?quality=hd
+#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel SD" group-title="Live",FX Movie Channel SD
+https://int.klcis.cc/api/m3u/FXMovieChannel?quality=sd
+#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel HD" group-title="Live",FX Movie Channel HD
+https://int.klcis.cc/api/m3u/FXMovieChannel?quality=hd
+#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast SD" group-title="Live",FX Networks East Coast SD
+https://int.klcis.cc/api/m3u/FXEast?quality=sd
+#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast HD" group-title="Live",FX Networks East Coast HD
+https://int.klcis.cc/api/m3u/FXEast?quality=hd
+#EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern SD" group-title="Live",FXX USA Eastern SD
+https://int.klcis.cc/api/m3u/FXXEast?quality=sd
+#EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern HD" group-title="Live",FXX USA Eastern HD
+https://int.klcis.cc/api/m3u/FXXEast?quality=hd
+#EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern SD" group-title="Live",FYI USA Eastern SD
+https://int.klcis.cc/api/m3u/FYIEast?quality=sd
+#EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern HD" group-title="Live",FYI USA Eastern HD
+https://int.klcis.cc/api/m3u/FYIEast?quality=hd
+#EXTINF:-1 tvg-id="game-show-network-east" tvg-name="Game Show Network East SD" group-title="Live",Game Show Network East SD
+https://int.klcis.cc/api/m3u/game-show-network-east?quality=sd
+#EXTINF:-1 tvg-id="game-show-network-east" tvg-name="Game Show Network East HD" group-title="Live",Game Show Network East HD
+https://int.klcis.cc/api/m3u/game-show-network-east?quality=hd
+#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA SD" group-title="Live",Golf Channel USA SD
+https://int.klcis.cc/api/m3u/GolfChannel?quality=sd
+#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA HD" group-title="Live",Golf Channel USA HD
+https://int.klcis.cc/api/m3u/GolfChannel?quality=hd
+#EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed SD" group-title="Live",Hallmark Eastern Feed SD
+https://int.klcis.cc/api/m3u/HallmarkChannelEast?quality=sd
+#EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed HD" group-title="Live",Hallmark Eastern Feed HD
+https://int.klcis.cc/api/m3u/HallmarkChannelEast?quality=hd
+#EXTINF:-1 tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD SD" group-title="Live",Hallmark Family HD SD
+https://int.klcis.cc/api/m3u/HallmarkDrama?quality=sd
+#EXTINF:-1 tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD HD" group-title="Live",Hallmark Family HD HD
+https://int.klcis.cc/api/m3u/HallmarkDrama?quality=hd
+#EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD SD" group-title="Live",Hallmark Mystery Eastern HD SD
+https://int.klcis.cc/api/m3u/HallmarkMoviesMysteriesEast?quality=sd
+#EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD HD" group-title="Live",Hallmark Mystery Eastern HD HD
+https://int.klcis.cc/api/m3u/HallmarkMoviesMysteriesEast?quality=hd
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed SD" group-title="Live",HBO Eastern Feed SD
+https://int.klcis.cc/api/m3u/HBOEast?quality=sd
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed HD" group-title="Live",HBO Eastern Feed HD
+https://int.klcis.cc/api/m3u/HBOEast?quality=hd
+#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed SD" group-title="Live",HBO 2 Eastern Feed SD
+https://int.klcis.cc/api/m3u/HBO2East?quality=sd
+#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed HD" group-title="Live",HBO 2 Eastern Feed HD
+https://int.klcis.cc/api/m3u/HBO2East?quality=hd
+#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East SD" group-title="Live",HBO Comedy HD East SD
+https://int.klcis.cc/api/m3u/HBOComedyEast?quality=sd
+#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East HD" group-title="Live",HBO Comedy HD East HD
+https://int.klcis.cc/api/m3u/HBOComedyEast?quality=hd
+#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed SD" group-title="Live",HBO Family Eastern Feed SD
+https://int.klcis.cc/api/m3u/HBOFamilyEast?quality=sd
+#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed HD" group-title="Live",HBO Family Eastern Feed HD
+https://int.klcis.cc/api/m3u/HBOFamilyEast?quality=hd
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern SD" group-title="Live",HBO Signature (HBO 3) Eastern SD
+https://int.klcis.cc/api/m3u/HBOSignatureEast?quality=sd
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD" group-title="Live",HBO Signature (HBO 3) Eastern HD
+https://int.klcis.cc/api/m3u/HBOSignatureEast?quality=hd
+#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East SD" group-title="Live",HBO Zone HD East SD
+https://int.klcis.cc/api/m3u/HBOZoneEast?quality=sd
+#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East HD" group-title="Live",HBO Zone HD East HD
+https://int.klcis.cc/api/m3u/HBOZoneEast?quality=hd
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed SD" group-title="Live",HGTV USA Eastern Feed SD
+https://int.klcis.cc/api/m3u/HGTVEast?quality=sd
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed HD" group-title="Live",HGTV USA Eastern Feed HD
+https://int.klcis.cc/api/m3u/HGTVEast?quality=hd
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed SD" group-title="Live",History Channel US Eastern Feed SD
+https://int.klcis.cc/api/m3u/HistoryEast?quality=sd
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed HD" group-title="Live",History Channel US Eastern Feed HD
+https://int.klcis.cc/api/m3u/HistoryEast?quality=hd
+#EXTINF:-1 tvg-id="hln" tvg-name="HLN SD" group-title="Live",HLN SD
+https://int.klcis.cc/api/m3u/HLN?quality=sd
+#EXTINF:-1 tvg-id="hln" tvg-name="HLN HD" group-title="Live",HLN HD
+https://int.klcis.cc/api/m3u/HLN?quality=hd
+#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US SD" group-title="Live",Independent Film Channel US SD
+https://int.klcis.cc/api/m3u/IFCEast?quality=sd
+#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US HD" group-title="Live",Independent Film Channel US HD
+https://int.klcis.cc/api/m3u/IFCEast?quality=hd
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern SD" group-title="Live",Investigation Discovery USA Eastern SD
+https://int.klcis.cc/api/m3u/InvestigationDiscoveryEast?quality=sd
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern HD" group-title="Live",Investigation Discovery USA Eastern HD
+https://int.klcis.cc/api/m3u/InvestigationDiscoveryEast?quality=hd
+#EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed SD" group-title="Live",ION Eastern Feed SD
+https://int.klcis.cc/api/m3u/IONTVEast?quality=sd
+#EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed HD" group-title="Live",ION Eastern Feed HD
+https://int.klcis.cc/api/m3u/IONTVEast?quality=hd
+#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East SD" group-title="Live",Lifetime Movies East SD
+https://int.klcis.cc/api/m3u/LifetimeMoviesEast?quality=sd
+#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East HD" group-title="Live",Lifetime Movies East HD
+https://int.klcis.cc/api/m3u/LifetimeMoviesEast?quality=hd
+#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed SD" group-title="Live",Lifetime Network US Eastern Feed SD
+https://int.klcis.cc/api/m3u/LifetimeEast?quality=sd
+#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed HD" group-title="Live",Lifetime Network US Eastern Feed HD
+https://int.klcis.cc/api/m3u/LifetimeEast?quality=hd
+#EXTINF:-1 tvg-id="logo-east" tvg-name="LOGO East SD" group-title="Live",LOGO East SD
+https://int.klcis.cc/api/m3u/LogoEast?quality=sd
+#EXTINF:-1 tvg-id="logo-east" tvg-name="LOGO East HD" group-title="Live",LOGO East HD
+https://int.klcis.cc/api/m3u/LogoEast?quality=hd
+#EXTINF:-1 tvg-id="marquee-sports-network" tvg-name="Marquee Sports Network SD" group-title="Live",Marquee Sports Network SD
+https://int.klcis.cc/api/m3u/marquee-sports-network?quality=sd
+#EXTINF:-1 tvg-id="marquee-sports-network" tvg-name="Marquee Sports Network HD" group-title="Live",Marquee Sports Network HD
+https://int.klcis.cc/api/m3u/marquee-sports-network?quality=hd
+#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey SD" group-title="Live",MeTV Toons (WJLP2) New Jersey SD
+https://int.klcis.cc/api/m3u/metv-toons?quality=sd
+#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey HD" group-title="Live",MeTV Toons (WJLP2) New Jersey HD
+https://int.klcis.cc/api/m3u/metv-toons?quality=hd
+#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="MeTV Wjlp New Jerseynew York SD" group-title="Live",MeTV Wjlp New Jerseynew York SD
+https://int.klcis.cc/api/m3u/metv-wjlp-new-jerseynew-york?quality=sd
+#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="MeTV Wjlp New Jerseynew York HD" group-title="Live",MeTV Wjlp New Jerseynew York HD
+https://int.klcis.cc/api/m3u/metv-wjlp-new-jerseynew-york?quality=hd
+#EXTINF:-1 tvg-id="midatlantic-sports-network" tvg-name="Midatlantic Sports Network SD" group-title="Live",Midatlantic Sports Network SD
+https://int.klcis.cc/api/m3u/midatlantic-sports-network?quality=sd
+#EXTINF:-1 tvg-id="midatlantic-sports-network" tvg-name="Midatlantic Sports Network HD" group-title="Live",Midatlantic Sports Network HD
+https://int.klcis.cc/api/m3u/midatlantic-sports-network?quality=hd
+#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network SD" group-title="Live",MLB Network SD
+https://int.klcis.cc/api/m3u/MLBNetwork?quality=sd
+#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network HD" group-title="Live",MLB Network HD
+https://int.klcis.cc/api/m3u/MLBNetwork?quality=hd
+#EXTINF:-1 tvg-id="monumental-sports-network" tvg-name="Monumental Sports Network SD" group-title="Live",Monumental Sports Network SD
+https://int.klcis.cc/api/m3u/monumental-sports-network?quality=sd
+#EXTINF:-1 tvg-id="monumental-sports-network" tvg-name="Monumental Sports Network HD" group-title="Live",Monumental Sports Network HD
+https://int.klcis.cc/api/m3u/monumental-sports-network?quality=hd
+#EXTINF:-1 tvg-id="moremax-eastern" tvg-name="MoreMax Eastern SD" group-title="Live",MoreMax Eastern SD
+https://int.klcis.cc/api/m3u/MoreMaxEast?quality=sd
+#EXTINF:-1 tvg-id="moremax-eastern" tvg-name="MoreMax Eastern HD" group-title="Live",MoreMax Eastern HD
+https://int.klcis.cc/api/m3u/MoreMaxEast?quality=hd
+#EXTINF:-1 tvg-id="motor-trend-hd" tvg-name="Motor Trend HD SD" group-title="Live",Motor Trend HD SD
+https://int.klcis.cc/api/m3u/Motortrend?quality=sd
+#EXTINF:-1 tvg-id="motor-trend-hd" tvg-name="Motor Trend HD HD" group-title="Live",Motor Trend HD HD
+https://int.klcis.cc/api/m3u/Motortrend?quality=hd
+#EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East SD" group-title="Live",MovieMax (Max 6) East SD
+https://int.klcis.cc/api/m3u/MovieMaxEast?quality=sd
+#EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East HD" group-title="Live",MovieMax (Max 6) East HD
+https://int.klcis.cc/api/m3u/MovieMaxEast?quality=hd
+#EXTINF:-1 tvg-id="msg-madison-square-gardens" tvg-name="MSG Madison Square Gardens SD" group-title="Live",MSG Madison Square Gardens SD
+https://int.klcis.cc/api/m3u/msg-madison-square-gardens?quality=sd
+#EXTINF:-1 tvg-id="msg-madison-square-gardens" tvg-name="MSG Madison Square Gardens HD" group-title="Live",MSG Madison Square Gardens HD
+https://int.klcis.cc/api/m3u/msg-madison-square-gardens?quality=hd
+#EXTINF:-1 tvg-id="msg-plus" tvg-name="MSG Plus SD" group-title="Live",MSG Plus SD
+https://int.klcis.cc/api/m3u/msg-plus?quality=sd
+#EXTINF:-1 tvg-id="msg-plus" tvg-name="MSG Plus HD" group-title="Live",MSG Plus HD
+https://int.klcis.cc/api/m3u/msg-plus?quality=hd
+#EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC USA SD" group-title="Live",MSNBC USA SD
+https://int.klcis.cc/api/m3u/MSNBC?quality=sd
+#EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC USA HD" group-title="Live",MSNBC USA HD
+https://int.klcis.cc/api/m3u/MSNBC?quality=hd
+#EXTINF:-1 tvg-id="mtv-2-east" tvg-name="MTV 2 East SD" group-title="Live",MTV 2 East SD
+https://int.klcis.cc/api/m3u/mtv-2-east?quality=sd
+#EXTINF:-1 tvg-id="mtv-2-east" tvg-name="MTV 2 East HD" group-title="Live",MTV 2 East HD
+https://int.klcis.cc/api/m3u/mtv-2-east?quality=hd
+#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed SD" group-title="Live",MTV USA Eastern Feed SD
+https://int.klcis.cc/api/m3u/MTVEast?quality=sd
+#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed HD" group-title="Live",MTV USA Eastern Feed HD
+https://int.klcis.cc/api/m3u/MTVEast?quality=hd
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern SD" group-title="Live",National Geographic US Eastern SD
+https://int.klcis.cc/api/m3u/NationalGeographicEast?quality=sd
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern HD" group-title="Live",National Geographic US Eastern HD
+https://int.klcis.cc/api/m3u/NationalGeographicEast?quality=hd
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild SD" group-title="Live",National Geographic Wild SD
+https://int.klcis.cc/api/m3u/NationalGeographicWildEast?quality=sd
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild HD" group-title="Live",National Geographic Wild HD
+https://int.klcis.cc/api/m3u/NationalGeographicWildEast?quality=hd
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA SD" group-title="Live",NBA TV USA SD
+https://int.klcis.cc/api/m3u/NBATV?quality=sd
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA HD" group-title="Live",NBA TV USA HD
+https://int.klcis.cc/api/m3u/NBATV?quality=hd
+#EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles SD" group-title="Live",NBC (KNBC) Los Angeles SD
+https://int.klcis.cc/api/m3u/nbc-knbc-los-angeles-ca?quality=sd
+#EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles HD" group-title="Live",NBC (KNBC) Los Angeles HD
+https://int.klcis.cc/api/m3u/nbc-knbc-los-angeles-ca?quality=hd
+#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY SD" group-title="Live",NBC (WNBC) New York, NY SD
+https://int.klcis.cc/api/m3u/WNBCDT1?quality=sd
+#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY HD" group-title="Live",NBC (WNBC) New York, NY HD
+https://int.klcis.cc/api/m3u/WNBCDT1?quality=hd
+#EXTINF:-1 tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area SD" group-title="Live",NBC Sports Bay Area SD
+https://int.klcis.cc/api/m3u/nbc-sports-bay-area?quality=sd
+#EXTINF:-1 tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area HD" group-title="Live",NBC Sports Bay Area HD
+https://int.klcis.cc/api/m3u/nbc-sports-bay-area?quality=hd
+#EXTINF:-1 tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston SD" group-title="Live",NBC Sports Boston SD
+https://int.klcis.cc/api/m3u/nbc-sports-boston?quality=sd
+#EXTINF:-1 tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston HD" group-title="Live",NBC Sports Boston HD
+https://int.klcis.cc/api/m3u/nbc-sports-boston?quality=hd
+#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California SD" group-title="Live",NBC Sports California SD
+https://int.klcis.cc/api/m3u/nbc-sports-california?quality=sd
+#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California HD" group-title="Live",NBC Sports California HD
+https://int.klcis.cc/api/m3u/nbc-sports-california?quality=hd
+#EXTINF:-1 tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia SD" group-title="Live",NBC Sports Philadelphia SD
+https://int.klcis.cc/api/m3u/nbc-sports-philadelphia?quality=sd
+#EXTINF:-1 tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia HD" group-title="Live",NBC Sports Philadelphia HD
+https://int.klcis.cc/api/m3u/nbc-sports-philadelphia?quality=hd
+#EXTINF:-1 tvg-id="new-england-sports-network" tvg-name="New England Sports Network SD" group-title="Live",New England Sports Network SD
+https://int.klcis.cc/api/m3u/new-england-sports-network?quality=sd
+#EXTINF:-1 tvg-id="new-england-sports-network" tvg-name="New England Sports Network HD" group-title="Live",New England Sports Network HD
+https://int.klcis.cc/api/m3u/new-england-sports-network?quality=hd
+#EXTINF:-1 tvg-id="newsmax-tv" tvg-name="NewsMax TV SD" group-title="Live",NewsMax TV SD
+https://int.klcis.cc/api/m3u/NewsmaxTV?quality=sd
+#EXTINF:-1 tvg-id="newsmax-tv" tvg-name="NewsMax TV HD" group-title="Live",NewsMax TV HD
+https://int.klcis.cc/api/m3u/NewsmaxTV?quality=hd
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network SD" group-title="Live",NFL Network SD
+https://int.klcis.cc/api/m3u/NFLNetwork?quality=sd
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network HD" group-title="Live",NFL Network HD
+https://int.klcis.cc/api/m3u/NFLNetwork?quality=hd
+#EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone SD" group-title="Live",NFL RedZone SD
+https://int.klcis.cc/api/m3u/NFLRedZone?quality=sd
+#EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone HD" group-title="Live",NFL RedZone HD
+https://int.klcis.cc/api/m3u/NFLRedZone?quality=hd
+#EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA SD" group-title="Live",NHL Network USA SD
+https://int.klcis.cc/api/m3u/NHLNetwork?quality=sd
+#EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA HD" group-title="Live",NHL Network USA HD
+https://int.klcis.cc/api/m3u/NHLNetwork?quality=hd
+#EXTINF:-1 tvg-id="nick-jr-east" tvg-name="Nick Jr. East SD" group-title="Live",Nick Jr. East SD
+https://int.klcis.cc/api/m3u/NickJrEast?quality=sd
+#EXTINF:-1 tvg-id="nick-jr-east" tvg-name="Nick Jr. East HD" group-title="Live",Nick Jr. East HD
+https://int.klcis.cc/api/m3u/NickJrEast?quality=hd
+#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed SD" group-title="Live",Nickelodeon USA East Feed SD
+https://int.klcis.cc/api/m3u/NickelodeonEast?quality=sd
+#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed HD" group-title="Live",Nickelodeon USA East Feed HD
+https://int.klcis.cc/api/m3u/NickelodeonEast?quality=hd
+#EXTINF:-1 tvg-id="nicktoons-east" tvg-name="Nicktoons East SD" group-title="Live",Nicktoons East SD
+https://int.klcis.cc/api/m3u/NicktoonsEast?quality=sd
+#EXTINF:-1 tvg-id="nicktoons-east" tvg-name="Nicktoons East HD" group-title="Live",Nicktoons East HD
+https://int.klcis.cc/api/m3u/NicktoonsEast?quality=hd
+#EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network USA Eastern SD" group-title="Live",Oprah Winfrey Network USA Eastern SD
+https://int.klcis.cc/api/m3u/OWNEast?quality=sd
+#EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network USA Eastern HD" group-title="Live",Oprah Winfrey Network USA Eastern HD
+https://int.klcis.cc/api/m3u/OWNEast?quality=hd
+#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US SD" group-title="Live",Outdoor Channel US SD
+https://int.klcis.cc/api/m3u/OutdoorChannel?quality=sd
+#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US HD" group-title="Live",Outdoor Channel US HD
+https://int.klcis.cc/api/m3u/OutdoorChannel?quality=hd
+#EXTINF:-1 tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed SD" group-title="Live",Oxygen Eastern Feed SD
+https://int.klcis.cc/api/m3u/OxygenEast?quality=sd
+#EXTINF:-1 tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed HD" group-title="Live",Oxygen Eastern Feed HD
+https://int.klcis.cc/api/m3u/OxygenEast?quality=hd
+#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York, NY SD" group-title="Live",PBS (WNET) New York, NY SD
+https://int.klcis.cc/api/m3u/WNET?quality=sd
+#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York, NY HD" group-title="Live",PBS (WNET) New York, NY HD
+https://int.klcis.cc/api/m3u/WNET?quality=hd
+#EXTINF:-1 tvg-id="reelzchannel" tvg-name="ReelzChannel SD" group-title="Live",ReelzChannel SD
+https://int.klcis.cc/api/m3u/Reelz?quality=sd
+#EXTINF:-1 tvg-id="reelzchannel" tvg-name="ReelzChannel HD" group-title="Live",ReelzChannel HD
+https://int.klcis.cc/api/m3u/Reelz?quality=hd
+#EXTINF:-1 tvg-id="science" tvg-name="Science SD" group-title="Live",Science SD
+https://int.klcis.cc/api/m3u/Science?quality=sd
+#EXTINF:-1 tvg-id="science" tvg-name="Science HD" group-title="Live",Science HD
+https://int.klcis.cc/api/m3u/Science?quality=hd
+#EXTINF:-1 tvg-id="sec-network" tvg-name="SEC Network SD" group-title="Live",SEC Network SD
+https://int.klcis.cc/api/m3u/SECN?quality=sd
+#EXTINF:-1 tvg-id="sec-network" tvg-name="SEC Network HD" group-title="Live",SEC Network HD
+https://int.klcis.cc/api/m3u/SECN?quality=hd
+#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed SD" group-title="Live",Showtime Eastern Feed SD
+https://int.klcis.cc/api/m3u/ShowtimeEast?quality=sd
+#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed HD" group-title="Live",Showtime Eastern Feed HD
+https://int.klcis.cc/api/m3u/ShowtimeEast?quality=hd
+#EXTINF:-1 tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern SD" group-title="Live",Showtime 2 Eastern SD
+https://int.klcis.cc/api/m3u/Showtime2East?quality=sd
+#EXTINF:-1 tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern HD" group-title="Live",Showtime 2 Eastern HD
+https://int.klcis.cc/api/m3u/Showtime2East?quality=hd
+#EXTINF:-1 tvg-id="sny-sportsnet-new-york-comcast" tvg-name="SNY Sportsnet New York Comcast SD" group-title="Live",SNY Sportsnet New York Comcast SD
+https://int.klcis.cc/api/m3u/sny-sportsnet-new-york-comcast?quality=sd
+#EXTINF:-1 tvg-id="sny-sportsnet-new-york-comcast" tvg-name="SNY Sportsnet New York Comcast HD" group-title="Live",SNY Sportsnet New York Comcast HD
+https://int.klcis.cc/api/m3u/sny-sportsnet-new-york-comcast?quality=hd
+#EXTINF:-1 tvg-id="space-city-home-network" tvg-name="Space City Home Network SD" group-title="Live",Space City Home Network SD
+https://int.klcis.cc/api/m3u/space-city-home-network?quality=sd
+#EXTINF:-1 tvg-id="space-city-home-network" tvg-name="Space City Home Network HD" group-title="Live",Space City Home Network HD
+https://int.klcis.cc/api/m3u/space-city-home-network?quality=hd
+#EXTINF:-1 tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA SD" group-title="Live",Spectrum SportsNet LA SD
+https://int.klcis.cc/api/m3u/spectrum-sportsnet-la?quality=sd
+#EXTINF:-1 tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA HD" group-title="Live",Spectrum SportsNet LA HD
+https://int.klcis.cc/api/m3u/spectrum-sportsnet-la?quality=hd
+#EXTINF:-1 tvg-id="spectrum-sportsnet" tvg-name="Spectrum Sportsnet Lakers SD" group-title="Live",Spectrum Sportsnet Lakers SD
+https://int.klcis.cc/api/m3u/spectrum-sportsnet?quality=sd
+#EXTINF:-1 tvg-id="spectrum-sportsnet" tvg-name="Spectrum Sportsnet Lakers HD" group-title="Live",Spectrum Sportsnet Lakers HD
+https://int.klcis.cc/api/m3u/spectrum-sportsnet?quality=hd
+#EXTINF:-1 tvg-id="sportsnet-east" tvg-name="Sportsnet (East) SD" group-title="Live",Sportsnet (East) SD
+https://int.klcis.cc/api/m3u/sportsnet-east?quality=sd
+#EXTINF:-1 tvg-id="sportsnet-east" tvg-name="Sportsnet (East) HD" group-title="Live",Sportsnet (East) HD
+https://int.klcis.cc/api/m3u/sportsnet-east?quality=hd
+#EXTINF:-1 tvg-id="sportsnet-360" tvg-name="Sportsnet 360 SD" group-title="Live",Sportsnet 360 SD
+https://int.klcis.cc/api/m3u/sportsnet-360?quality=sd
+#EXTINF:-1 tvg-id="sportsnet-360" tvg-name="Sportsnet 360 HD" group-title="Live",Sportsnet 360 HD
+https://int.klcis.cc/api/m3u/sportsnet-360?quality=hd
+#EXTINF:-1 tvg-id="sportsnet-one" tvg-name="Sportsnet One SD" group-title="Live",Sportsnet One SD
+https://int.klcis.cc/api/m3u/sportsnet-one?quality=sd
+#EXTINF:-1 tvg-id="sportsnet-one" tvg-name="Sportsnet One HD" group-title="Live",Sportsnet One HD
+https://int.klcis.cc/api/m3u/sportsnet-one?quality=hd
+#EXTINF:-1 tvg-id="sportsnet-ontario" tvg-name="Sportsnet Ontario SD" group-title="Live",Sportsnet Ontario SD
+https://int.klcis.cc/api/m3u/sportsnet-ontario?quality=sd
+#EXTINF:-1 tvg-id="sportsnet-ontario" tvg-name="Sportsnet Ontario HD" group-title="Live",Sportsnet Ontario HD
+https://int.klcis.cc/api/m3u/sportsnet-ontario?quality=hd
+#EXTINF:-1 tvg-id="sportsnet-pacific" tvg-name="Sportsnet Pacific SD" group-title="Live",Sportsnet Pacific SD
+https://int.klcis.cc/api/m3u/sportsnet-pacific?quality=sd
+#EXTINF:-1 tvg-id="sportsnet-pacific" tvg-name="Sportsnet Pacific HD" group-title="Live",Sportsnet Pacific HD
+https://int.klcis.cc/api/m3u/sportsnet-pacific?quality=hd
+#EXTINF:-1 tvg-id="sportsnet-pittsburgh" tvg-name="Sportsnet Pittsburgh SD" group-title="Live",Sportsnet Pittsburgh SD
+https://int.klcis.cc/api/m3u/sportsnet-pittsburgh?quality=sd
+#EXTINF:-1 tvg-id="sportsnet-pittsburgh" tvg-name="Sportsnet Pittsburgh HD" group-title="Live",Sportsnet Pittsburgh HD
+https://int.klcis.cc/api/m3u/sportsnet-pittsburgh?quality=hd
+#EXTINF:-1 tvg-id="sportsnet-west" tvg-name="Sportsnet West SD" group-title="Live",Sportsnet West SD
+https://int.klcis.cc/api/m3u/sportsnet-west?quality=sd
+#EXTINF:-1 tvg-id="sportsnet-west" tvg-name="Sportsnet West HD" group-title="Live",Sportsnet West HD
+https://int.klcis.cc/api/m3u/sportsnet-west?quality=hd
+#EXTINF:-1 tvg-id="starz-eastern" tvg-name="Starz Eastern SD" group-title="Live",Starz Eastern SD
+https://int.klcis.cc/api/m3u/StarzEast?quality=sd
+#EXTINF:-1 tvg-id="starz-eastern" tvg-name="Starz Eastern HD" group-title="Live",Starz Eastern HD
+https://int.klcis.cc/api/m3u/StarzEast?quality=hd
+#EXTINF:-1 tvg-id="sundancetv-usa-east" tvg-name="SundanceTV USA East SD" group-title="Live",SundanceTV USA East SD
+https://int.klcis.cc/api/m3u/SundanceTVEast?quality=sd
+#EXTINF:-1 tvg-id="sundancetv-usa-east" tvg-name="SundanceTV USA East HD" group-title="Live",SundanceTV USA East HD
+https://int.klcis.cc/api/m3u/SundanceTVEast?quality=hd
+#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed SD" group-title="Live",Syfy Eastern Feed SD
+https://int.klcis.cc/api/m3u/SyfyEast?quality=sd
+#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed HD" group-title="Live",Syfy Eastern Feed HD
+https://int.klcis.cc/api/m3u/SyfyEast?quality=hd
+#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East SD" group-title="Live",TBS East SD
+https://int.klcis.cc/api/m3u/TBSEast?quality=sd
+#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East HD" group-title="Live",TBS East HD
+https://int.klcis.cc/api/m3u/TBSEast?quality=hd
+#EXTINF:-1 tvg-id="teennick-eastern" tvg-name="TeenNick Eastern SD" group-title="Live",TeenNick Eastern SD
+https://int.klcis.cc/api/m3u/TeenNickEast?quality=sd
+#EXTINF:-1 tvg-id="teennick-eastern" tvg-name="TeenNick Eastern HD" group-title="Live",TeenNick Eastern HD
+https://int.klcis.cc/api/m3u/TeenNickEast?quality=hd
+#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed SD" group-title="Live",Telemundo Eastern Feed SD
+https://int.klcis.cc/api/m3u/TelemundoEast?quality=sd
+#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed HD" group-title="Live",Telemundo Eastern Feed HD
+https://int.klcis.cc/api/m3u/TelemundoEast?quality=hd
+#EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="The Cooking Channel SD" group-title="Live",The Cooking Channel SD
+https://int.klcis.cc/api/m3u/CookingChannel?quality=sd
+#EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="The Cooking Channel HD" group-title="Live",The Cooking Channel HD
+https://int.klcis.cc/api/m3u/CookingChannel?quality=hd
+#EXTINF:-1 tvg-id="the-tennis-channel" tvg-name="The Tennis Channel SD" group-title="Live",The Tennis Channel SD
+https://int.klcis.cc/api/m3u/TennisChannel?quality=sd
+#EXTINF:-1 tvg-id="the-tennis-channel" tvg-name="The Tennis Channel HD" group-title="Live",The Tennis Channel HD
+https://int.klcis.cc/api/m3u/TennisChannel?quality=hd
+#EXTINF:-1 tvg-id="the-weather-channel" tvg-name="The Weather Channel SD" group-title="Live",The Weather Channel SD
+https://int.klcis.cc/api/m3u/TheWeatherChannel?quality=sd
+#EXTINF:-1 tvg-id="the-weather-channel" tvg-name="The Weather Channel HD" group-title="Live",The Weather Channel HD
+https://int.klcis.cc/api/m3u/TheWeatherChannel?quality=hd
+#EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern SD" group-title="Live",TLC USA Eastern SD
+https://int.klcis.cc/api/m3u/TLCEast?quality=sd
+#EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern HD" group-title="Live",TLC USA Eastern HD
+https://int.klcis.cc/api/m3u/TLCEast?quality=hd
+#EXTINF:-1 tvg-id="tmc-us-eastern-feed" tvg-name="TMC (US) Eastern Feed SD" group-title="Live",TMC (US) Eastern Feed SD
+https://int.klcis.cc/api/m3u/TheMovieChannelEast?quality=sd
+#EXTINF:-1 tvg-id="tmc-us-eastern-feed" tvg-name="TMC (US) Eastern Feed HD" group-title="Live",TMC (US) Eastern Feed HD
+https://int.klcis.cc/api/m3u/TheMovieChannelEast?quality=hd
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed SD" group-title="Live",TNT Eastern Feed SD
+https://int.klcis.cc/api/m3u/TNTEast?quality=sd
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed HD" group-title="Live",TNT Eastern Feed HD
+https://int.klcis.cc/api/m3u/TNTEast?quality=hd
+#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East SD" group-title="Live",Travel US East SD
+https://int.klcis.cc/api/m3u/TravelChannelEast?quality=sd
+#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East HD" group-title="Live",Travel US East HD
+https://int.klcis.cc/api/m3u/TravelChannelEast?quality=hd
+#EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern SD" group-title="Live",truTV USA Eastern SD
+https://int.klcis.cc/api/m3u/truTVEast?quality=sd
+#EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern HD" group-title="Live",truTV USA Eastern HD
+https://int.klcis.cc/api/m3u/truTVEast?quality=hd
+#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1 SD" group-title="Live",TSN1 SD
+https://int.klcis.cc/api/m3u/tsn1?quality=sd
+#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1 HD" group-title="Live",TSN1 HD
+https://int.klcis.cc/api/m3u/tsn1?quality=hd
+#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2 SD" group-title="Live",TSN2 SD
+https://int.klcis.cc/api/m3u/tsn2?quality=sd
+#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2 HD" group-title="Live",TSN2 HD
+https://int.klcis.cc/api/m3u/tsn2?quality=hd
+#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3 SD" group-title="Live",TSN3 SD
+https://int.klcis.cc/api/m3u/tsn3?quality=sd
+#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3 HD" group-title="Live",TSN3 HD
+https://int.klcis.cc/api/m3u/tsn3?quality=hd
+#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4 SD" group-title="Live",TSN4 SD
+https://int.klcis.cc/api/m3u/tsn4?quality=sd
+#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4 HD" group-title="Live",TSN4 HD
+https://int.klcis.cc/api/m3u/tsn4?quality=hd
+#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5 SD" group-title="Live",TSN5 SD
+https://int.klcis.cc/api/m3u/tsn5?quality=sd
+#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5 HD" group-title="Live",TSN5 HD
+https://int.klcis.cc/api/m3u/tsn5?quality=hd
+#EXTINF:-1 tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA SD" group-title="Live",Turner Classic Movies USA SD
+https://int.klcis.cc/api/m3u/TCMEast?quality=sd
+#EXTINF:-1 tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA HD" group-title="Live",Turner Classic Movies USA HD
+https://int.klcis.cc/api/m3u/TCMEast?quality=hd
+#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern SD" group-title="Live",TV Land Eastern SD
+https://int.klcis.cc/api/m3u/tv-land-eastern?quality=sd
+#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern HD" group-title="Live",TV Land Eastern HD
+https://int.klcis.cc/api/m3u/tv-land-eastern?quality=hd
+#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One SD" group-title="Live",TV One SD
+https://int.klcis.cc/api/m3u/TVOne?quality=sd
+#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One HD" group-title="Live",TV One HD
+https://int.klcis.cc/api/m3u/TVOne?quality=hd
+#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids SD" group-title="Live",Universal Kids SD
+https://int.klcis.cc/api/m3u/UniversalKidsEast?quality=sd
+#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids HD" group-title="Live",Universal Kids HD
+https://int.klcis.cc/api/m3u/UniversalKidsEast?quality=hd
+#EXTINF:-1 tvg-id="univision-eastern-feed" tvg-name="Univision Eastern Feed SD" group-title="Live",Univision Eastern Feed SD
+https://int.klcis.cc/api/m3u/UnivisionEast?quality=sd
+#EXTINF:-1 tvg-id="univision-eastern-feed" tvg-name="Univision Eastern Feed HD" group-title="Live",Univision Eastern Feed HD
+https://int.klcis.cc/api/m3u/UnivisionEast?quality=hd
+#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed SD" group-title="Live",USA Network East Feed SD
+https://int.klcis.cc/api/m3u/USANetworkEast?quality=sd
+#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed HD" group-title="Live",USA Network East Feed HD
+https://int.klcis.cc/api/m3u/USANetworkEast?quality=hd
+#EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed SD" group-title="Live",VH1 Eastern Feed SD
+https://int.klcis.cc/api/m3u/VH1East?quality=sd
+#EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed HD" group-title="Live",VH1 Eastern Feed HD
+https://int.klcis.cc/api/m3u/VH1East?quality=hd
+#EXTINF:-1 tvg-id="vice" tvg-name="VICE SD" group-title="Live",VICE SD
+https://int.klcis.cc/api/m3u/VICETV?quality=sd
+#EXTINF:-1 tvg-id="vice" tvg-name="VICE HD" group-title="Live",VICE HD
+https://int.klcis.cc/api/m3u/VICETV?quality=hd
+#EXTINF:-1 tvg-id="we-womens-entertainment-eastern" tvg-name="WE (Women's Entertainment) Eastern SD" group-title="Live",WE (Women's Entertainment) Eastern SD
+https://int.klcis.cc/api/m3u/WeTVEast?quality=sd
+#EXTINF:-1 tvg-id="we-womens-entertainment-eastern" tvg-name="WE (Women's Entertainment) Eastern HD" group-title="Live",WE (Women's Entertainment) Eastern HD
+https://int.klcis.cc/api/m3u/WeTVEast?quality=hd
+#EXTINF:-1 tvg-id="wpix-new-york-superstation" tvg-name="WPIX New York (SUPERSTATION) SD" group-title="Live",WPIX New York (SUPERSTATION) SD
+https://int.klcis.cc/api/m3u/WPIX?quality=sd
+#EXTINF:-1 tvg-id="wpix-new-york-superstation" tvg-name="WPIX New York (SUPERSTATION) HD" group-title="Live",WPIX New York (SUPERSTATION) HD
+https://int.klcis.cc/api/m3u/WPIX?quality=hd
+#EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network SD" group-title="Live",Yes Network SD
+https://int.klcis.cc/api/m3u/yes-network?quality=sd
+#EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network HD" group-title="Live",Yes Network HD
+https://int.klcis.cc/api/m3u/yes-network?quality=hd
